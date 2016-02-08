@@ -1,62 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: url("../images/grass_texture.jpg");
-}
-h3, a, input {
-	font-family: "Comic Sans MS", cursive, sans-serif;
-}
-ul {
-	list-style-type: none;
-}
-body#main {
-	background: url("../images/snakeIntro.jpg");
-	background-size: 100%;
-}
-h3, a {
-	text-align: center;
-	color: yellow;
-	display: block;
-	font-size: 72px;
-	text-shadow: 2px 2px #0A0F03;
 }
 a {
-  cursor: pointer; 
-}
-#points {
-	position: relative;
-	right: 10px;
-	top: 10px;
-	font-size: 32px;
-	color: red;
-}
-.snakebody, #apple {
-	width: 40px;
-	height: 40px;
-	position: absolute;
-	transition: left 0.5s, top 0.5s;
-}
-.snakebody {
-	background: url("../images/snake_skin.jpg");
-}
-#apple {
-	background: url("../images/apple.png");
-	background-size: 100%	
-}
-#1 {
-	border-radius: 50%;
-}
-#main-container {
-	margin: auto;
-	max-width: 1000px;
-}
-input {
-	margin: auto;
-	width: 400px;
-	display: block;
-	margin-bottom: 20px;
-	font-size: 48px;
-	padding: 10px;
-	border-width: 3px;
-	border-color: #B7D03F;
+  color: #00b7ff;
 }
